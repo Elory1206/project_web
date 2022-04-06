@@ -1,5 +1,5 @@
 const express = require("express");
-const globalControllers = require("../controllers/globalController");
+const globalControllers = require("../Controllers/globalControllers");
 
 const router = express.Router();
 
